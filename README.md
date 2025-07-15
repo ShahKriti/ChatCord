@@ -18,7 +18,7 @@ Real-time Communication: Socket.IO
 📦 Installation
 bash
 # Clone the repository
-git clone https://github.com/your-username/chatcord.git
+git clone https://github.com/ShahKriti/chatcord.git
 
 # Navigate to the project directory
 cd chatcord
